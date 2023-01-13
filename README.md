@@ -4,6 +4,8 @@
 ### **참가자 : 신지원, 이은석, 김효인**
 <br/>
 
+![이미지](https://pbs.twimg.com/media/CzzwMgRUUAASv8k.jpg)
+
 * 한방 단어 금지
 * 무조건 세글자 
 
